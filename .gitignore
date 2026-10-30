@@ -1,0 +1,12 @@
+# Secrets
+start.ps1
+.env
+*.env
+
+# Not part of the published project
+*.pdf
+screenshots/
+video/
+
+# Node
+node_modules/
